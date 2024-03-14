@@ -1,0 +1,137 @@
+*{
+    margin: 0px 0px;
+    font-family: 'Nunito', sans-serif;
+}
+.container{
+    background-color: rgb(5, 0, 12);
+    color: white;
+    width: 100%;
+    height: 679px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+
+}
+.top{
+    margin-left: 500px;
+    margin-right: auto;
+    padding-top: 50px;
+
+}
+#icon{
+    margin-left: 90px;
+    height: 0px;
+    margin-bottom: 50px;
+    font-size: 50px;
+
+}
+#topspan{
+    padding-top: 50px;
+    margin-left: 20px;
+    color: white;
+    font-size: 25px;
+    font-weight: lighter;
+    font-weight: lighter;
+}
+.formcon{
+    margin-top: 20px;
+    margin-left: 450px;
+    background-color: rgb(10, 10, 12);
+    border: 0.1px solid rgb(23, 23, 27);
+    border-radius: 5px;
+    width: 24%;
+    height: 250px;
+    display:block;
+    padding-top: 15px;
+    padding-left: 10px;
+    
+}
+.formclass{
+    display: block;
+}
+
+
+
+#un{
+    margin-bottom:  20px;
+    font-size: 15px;
+}
+#ut{
+    margin-top: 20px;
+    border: 1px solid rgb(75, 72, 72);
+    border-radius: 10px;
+    background-color: rgb(27, 27, 27);
+    width: 90%;
+    height: 25px;
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+#ut:focus{
+    outline: none;
+    border: 1px solid blue;
+}
+#pl{
+   
+}
+#fp{
+    margin-left: 120px;
+    
+}
+#link{
+    text-decoration: none;
+    color: blue;
+}
+#signin{
+    width: 95%;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(32, 150, 32);
+    color: white;
+    border: none;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.second{
+    
+    margin-top: 20px;
+    margin-left: 450px;
+    background-color: rgb(10, 10, 12);
+    border: 0.1px solid rgb(23, 23, 27);
+    border-radius: 5px;
+    width: 24%;
+    height: 70px;
+    
+    padding-top: 15px;
+    padding-left: 10px;
+    text-align: center;
+    
+}
+#passkey{
+    text-decoration: none;
+    color: blue;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+#new{
+    font-size: 15px;
+   margin-top: 25px;
+   }
+#new a{
+    text-decoration: none;
+    color: blue;
+}
+.third{
+    display: flex;
+    width: 98%;
+    margin-top: 60px;
+    align-items: center;
+    justify-content: center;
+}
+#links{
+    text-decoration: none;
+    color: rgb(92, 87, 87);
+    margin-left: 15px;
+    font-size: 13px;
+}
